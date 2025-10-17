@@ -4,7 +4,6 @@ Bienvenue sur mon portfolio interactif !
 👉 **[Accéder au site en ligne](https://legobelindu93.github.io/CV-BRUNO/)**
 
 ---
-
 ## 🎧 Activer le son
 
 Pour profiter pleinement de l’expérience du site (animations et sons inclus) :
